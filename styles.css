@@ -5,18 +5,26 @@ header {
 }
 
 .tracks {
+  display: inline-block;
   position: relative;
+  margin-top: 5%;
   width: 70%;
+  margin-left: 15%;
+  margin-right: 15%;
 }
 
 .full-stack {
   position: relative;
   display: inline-block;
-  width: 50%;
+  vertical-align: top;
+  /*width: 44%;*/
+  margin-right: 10%;
 }
 
 .bodywork {
   position: relative;
   display: inline-block;
-  width: 50%
+  vertical-align: top;
+  /*width: 44%;*/
+  margin-left: 10%;
 }
