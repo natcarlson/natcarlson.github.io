@@ -4,27 +4,27 @@ header {
   color: black;
 }
 
-.tracks {
+#tracks {
   display: inline-block;
   position: relative;
   margin-top: 5%;
-  width: 70%;
-  margin-left: 15%;
-  margin-right: 15%;
+  width: 100%;
+  margin-left: 5%;
+  margin-right: 5%;
 }
 
-.full-stack {
+/*.full-stack {
   position: relative;
   display: inline-block;
   vertical-align: top;
-  /*width: 44%;*/
+  width: 44%;
   margin-right: 10%;
-}
+}*/
 
-.bodywork {
+/*.bodywork {
   position: relative;
   display: inline-block;
   vertical-align: top;
-  /*width: 44%;*/
+  width: 44%;
   margin-left: 10%;
-}
+}*/
