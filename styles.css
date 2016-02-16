@@ -4,13 +4,15 @@ header {
 }
 
 .full-stack {
-  margin-left: 20%;
+  width: 300px;
+  margin-left: 15%;
   margin-top: 3em;
   display: inline-block;
 }
 
 .bodywork {
-  margin-left: 60%;
+  width: 300px;
+  margin-left: 15%;
   margin-top: 3em;
   display: inline-block;
 }
