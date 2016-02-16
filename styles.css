@@ -3,7 +3,14 @@ header {
   color: black;
 }
 
-.intro {
+.full-stack {
   margin-left: 20%;
+  margin-right: -80%;
   margin-top: 5em;
+  display: inline-block;
+}
+
+.bodywork {
+  margin-top: 5em;
+  display: inline-block;
 }
