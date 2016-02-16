@@ -4,6 +4,6 @@ header {
 }
 
 .intro {
-  left: 40%;
-  top: 10em;
+  margin-left: 40%;
+  margin-top: 10em;
 }
