@@ -1,5 +1,5 @@
 header {
-  margin-top: 10%;
+  margin-top: 5%;
   text-align: center;
   color: black;
 }
@@ -9,14 +9,14 @@ header {
 }
 
 .full-stack {
-  position: absolute;
+  position: relative;;
   margin-left: 18%;
   display: inline-block;
   width: 50%;
 }
 
 .bodywork {
-  position: absolute;
+  position: relative;;
   margin-left: 10%;
   display: inline-block;
   width: 50%
