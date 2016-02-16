@@ -9,12 +9,14 @@ header {
 }
 
 .full-stack {
+  position: absolute;
   margin-left: 18%;
   display: inline-block;
   width: 50%;
 }
 
 .bodywork {
+  position: absolute;
   margin-left: 10%;
   display: inline-block;
   width: 50%
