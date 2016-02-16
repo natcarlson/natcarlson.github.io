@@ -1,16 +1,21 @@
 header {
+  margin-top: 10%;
   text-align: center;
   color: black;
 }
 
+.tracks {
+  width: 80%;
+}
+
 .full-stack {
   margin-left: 18%;
-  margin-top: 3em;
   display: inline-block;
+  width: 50%;
 }
 
 .bodywork {
   margin-left: 10%;
-  margin-top: 2em;
   display: inline-block;
+  width: 50%
 }
