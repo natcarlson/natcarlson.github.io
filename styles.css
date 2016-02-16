@@ -4,6 +4,20 @@ header {
   color: black;
 }
 
+h4 {
+  font-size: 5.9vw;
+}
+h5 {
+  font-size: 3.0vh;
+}
+h6 {
+  font-size: 2.0vh;
+}
+p {
+  font-size: 2vmin;
+}
+
+
 #tracks {
   display: inline-block;
   position: relative;
@@ -17,14 +31,14 @@ header {
   position: relative;
   display: inline-block;
   vertical-align: top;
-  width: 44%;
-  margin-right: 10%;
-}*/
+  width: 100%;
+  margin-bottom: 20px;
+}
 
-/*.bodywork {
+.bodywork {
   position: relative;
   display: inline-block;
   vertical-align: top;
-  width: 44%;
-  margin-left: 10%;
+  width: 100%;
+  margin-bottom: 20px;
 }*/
