@@ -9,15 +9,13 @@ header {
 }
 
 .full-stack {
-  position: relative;;
-  margin-left: 18%;
+  position: relative;
   display: inline-block;
   width: 50%;
 }
 
 .bodywork {
-  position: relative;;
-  margin-left: 10%;
+  position: relative;
   display: inline-block;
   width: 50%
 }
