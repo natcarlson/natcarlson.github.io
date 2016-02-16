@@ -5,7 +5,8 @@ header {
 }
 
 .tracks {
-  width: 80%;
+  position: absolute;
+  width: 70%;
 }
 
 .full-stack {
