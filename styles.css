@@ -1,5 +1,9 @@
 header {
   text-align: center;
-  text-decoration: none;
   color: black;
+}
+
+.intro {
+  left: 40%;
+  top: 10em;
 }
